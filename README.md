@@ -1,4 +1,12 @@
-# Database Management System (DBMS) Project
+# [DBMS] Project Aetherion
+
+Greek mythology:
+upper air → Aether → “life / air / purity”
+
+→ ion (suffix) → science common
+
+===  Aetherion ===
+
 
 This repository serves as the central development workspace for our Database Management System (DBMS) project. It is designed to enable structured collaboration among team members, ensuring efficient contribution, version control, and continuous integration throughout the development lifecycle.
 
