@@ -76,5 +76,6 @@ This repository is structured to support effective team collaboration. Team memb
 ##  Objective
 
 To develop a high-performance, scalable, and maintainable database system that reflects real-world industry standards and demonstrates strong understanding of database design and management principles.
+contributed by AfrinSyeda
 
 ---
